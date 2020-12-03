@@ -1,1 +1,1 @@
-This is a README file
+Minigame App created in a group, I was created the backend code only
